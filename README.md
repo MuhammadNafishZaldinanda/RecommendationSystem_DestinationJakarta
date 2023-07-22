@@ -10,12 +10,15 @@ Gambar 1. [**Museum Fatahillah, Kota Tua, Jakarta Merupakan Salah Satu Destinasi
 Gambar 2. Taman Mini Indonesia Indah (TMII) adalah Salah Satu Destinasi Wisata Taman Hiburan Legendaris di Kota Jakarta
 
 ![image](https://github.com/MuhammadNafishZaldinanda/FGA/assets/108967925/9898ae90-8a32-4cb0-a068-e0fae693e9ce)
+
 Gambar 3. Kebun Binatang Ragunan Merupakan Destinasi Wisata Cagar Alam di Kota Jakarta
 
 ![image](https://github.com/MuhammadNafishZaldinanda/FGA/assets/108967925/0cd57a3e-5697-4df0-8495-5495d6f3f81b)
+
 Gambar 4. Pulau Tidung Adalah Salah Satu Spot Wisata Bahari di Kota Jakarta
 
 ![image](https://github.com/MuhammadNafishZaldinanda/FGA/assets/108967925/f57245e6-353f-4a07-bea9-a56209af01cb)
+
 Gambar 5. Pasar Tanah Abang Merupakan Pusat Perbelanjaan Grosir Terbesar di ASEAN Bisa Dijadikan Destinasi Wisata
 
 ![image](https://github.com/MuhammadNafishZaldinanda/FGA/assets/108967925/949eefa1-6935-40cc-9bb7-62b71d6189a8)
@@ -211,6 +214,7 @@ Berdasarkan data yang diberikan, Wisata Kuliner Pecenongan menjadi tempat wisata
 
 **Jumlah *User* dari Tiap Kota Asal**
 ![image](https://github.com/MuhammadNafishZaldinanda/FGA/assets/108967925/d190e795-e9b7-4684-b526-4449bb85bf96)
+
 Gambar 11. Jumlah User dari Tiap Kota Asal
 
 Dalam dataset *user*, terdapat fitur Location yang memberikan informasi tentang asal daerah pengguna. Berdasarkan dataset tersebut, didapatkan informasi bahwa terdapat *user* yang berasal dari 28 kota yang berbeda. Jumlah *user* terbanyak berasal dari kota Bekasi dengan jumlah sebanyak 39 *user*. Kemudian diikuti oleh kota Semarang, Yogyakarta, Lampung, dan Bogor sebagai kota-kota dengan jumlah *user* tertinggi setelah Bekasi.
